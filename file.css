@@ -1,0 +1,36 @@
+/* .btn {
+  background-color: #5353a7;
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  font-size: 16px;
+}
+
+.btn:hover {
+  background-color: #313173;
+  cursor: pointer;
+}
+
+.btn:active {
+  outline: 2px solid #8e8ed3;
+} */
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.form {
+  width: 600px;
+  border: 1px solid grey;
+  height: 400px;
+  border-radius: 5px;
+  margin: 30% auto 0;
+}
+
+.header {
+  text-align: center;
+  text-transform: uppercase;
+  color: #504c4c;
+  font-family: "Long Cang", cursive;
+}
